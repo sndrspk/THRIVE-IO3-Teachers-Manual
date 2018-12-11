@@ -1,3 +1,6 @@
+* auto-gen TOC:
+{:toc}
+
 # Course outline
 
 The course consists of the following eight components. Each component consists of literature, optional slides for teachers, and practical assignments for the students. It is up to the course organisation to determine how long a component lasts. With quarterly or semester courses, each component can take one or two weeks. In an intensive programme, each component can also be two days, with the students working fulltime on the project.
@@ -33,5 +36,7 @@ Students will learn about motivation and perseverance, both on a personal and a 
 8.      Presentation and implementation
 
 During the last component, the students present their solution to the client, to the teachers, and to other teams (if the course ran with multiple teams in parallel).
+
+## schema
 
 Schematically, this looks as follows:
